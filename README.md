@@ -1,4 +1,4 @@
-[![MasterHead ]( https://https://www.google.com/search?q=data+analytics&sca_esv=597188272&tbm=isch&sxsrf=ACQVn083xrFFVxjAe_MWwf4Oekf8mPzXhw:1704887666506&source=lnms&sa=X&ved=2ahUKEwjBzPm94dKDAxVTExAIHQ6NDYkQ_AUoAXoECAUQAw&biw=1536&bih=703&dpr=1.25#imgrc=_vlTbXHxOg3naM )
+[![MasterHead ]( https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1687996800&v=beta&t=kBalXjsOxtLI4yiKhyCmS6hE8z-40PKWhLzPkqqIzks )
 <h1 align="center">Hi 👋, I'm Elgun Abbasli</h1>
 <h3 align="center">A passionate data analytics from Azerbaijan</h3>
 
